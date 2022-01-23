@@ -1,7 +1,9 @@
+import Dashboard from "./features/components";
+
 const App = () => {
   return (
     <div>
-      App is working with TS 
+      <Dashboard />
     </div>
   );
 }
